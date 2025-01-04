@@ -1,0 +1,3 @@
+[submodule "deps/pico_freertos_shell"]
+	path = deps/pico_freertos_shell
+	url = https://github.com/JZimnol/pico_freertos_shell
